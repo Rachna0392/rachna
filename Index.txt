@@ -1,0 +1,7 @@
+<html>
+<head>
+<title>rachna</title>
+</head>
+<body><h1>Welcome to Microsoft Azure Training</h1>
+<h2>Rachna Priyadarshini</h2></body>
+</html>
